@@ -109,7 +109,7 @@ const luna = {
 
 <div align="center">
 
-### 🌙 Creative Moon
+### 🌙 Luna Barreto
 *"Design. Code. Create."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F3E4E,100:405B8C&height=120&section=footer"/>
