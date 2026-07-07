@@ -85,14 +85,6 @@ const luna = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=luna-barreto&theme=github-compact&hide_border=true"/>
 </p>
 
-## 🐍 Contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/luna-barreto/luna-barreto/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## 🌐 Conecta conmigo
 
 <p align="center">
