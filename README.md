@@ -74,8 +74,15 @@ const luna = {
 
 ## 🌌 Lo que hago
 
-✔ Interfaces modernas &nbsp;&nbsp;✔ Diseño UI &nbsp;&nbsp;✔ Diseño Responsivo &nbsp;&nbsp;✔ Animaciones
-✔ React &nbsp;&nbsp;✔ TypeScript &nbsp;&nbsp;✔ Tailwind CSS &nbsp;&nbsp;✔ Branding &nbsp;&nbsp;✔ Diseño Web
+✔ Interfaces modernas &nbsp;&nbsp;
+✔ Diseño UI &nbsp;&nbsp;
+✔ Diseño Responsivo &nbsp;&nbsp;
+✔ Animaciones
+✔ React &nbsp;&nbsp;
+✔ TypeScript &nbsp;&nbsp;
+✔ Tailwind CSS &nbsp;&nbsp;
+✔ Branding &nbsp;&nbsp;
+✔ Diseño Web
 
 ---
 
