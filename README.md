@@ -1,10 +1,7 @@
 <div align="center">
-
 <img src="./assets/logo_shimmer.gif" width="320" alt="Creative Moon logo"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1200&color=2F3E4E&center=true&vCenter=true&width=800&lines=Frontend+Developer;UI+Designer;Graphic+Designer;Building+Beautiful+Digital+Experiences" />
-
-*"Transformando ideas en experiencias digitales elegantes."*
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=28&pause=1200&color=D4A017&center=true&vCenter=true&width=800&lines=Frontend+Developer;UI+Designer;Graphic+Designer;Building+Beautiful+Digital+Experiences" />
+"Transformando ideas en experiencias digitales elegantes."
 
 </div>
 
